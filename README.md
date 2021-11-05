@@ -18,4 +18,4 @@ Seu trabalho é realizar um protótipo de baixa fidelidade (wireframe) dessa nov
 
 # Resultado: 
 
-
+![Wireframe-Locadora](https://user-images.githubusercontent.com/42192877/140579476-1bfecadd-5181-4609-91c0-45e1c555ae81.png)
