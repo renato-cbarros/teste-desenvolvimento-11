@@ -1,9 +1,14 @@
 # Teste de desenvolvimento Ex. 11
 
-*O wireframe foi desenvolvido em html e css - Pasta html
--- Para acessar bastar abrir o "wireframe-cadastro-filme.html" em algum navegador
+*O wireframe foi desenvolvido em html e css
 
 *Imagem com o resultado final "Wireframe-Locadora.png"
+
+### Para executar o projeto:
+
+1. Acesse a pasta html
+2. Abra o arquivo "wireframe-cadastro-filme.html"
+
 
 # Proposta:
 A locadora Blockbuster deseja apostar em um novo sistema web de locações online para concorrer com os famosos serviços de streaming. Para garantir seu lugar no mercado, a empresa aposta no seu conhecimento de UI e UX para propor uma bela interface de Cadastro de Filmes dessa nova plataforma. Abaixo segue o modelo atual de interface que a Blockbuster usa atualmente: 
