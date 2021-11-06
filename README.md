@@ -7,7 +7,7 @@
 ### Para executar o projeto:
 
 1. Acesse a pasta html
-2. Abra o arquivo "wireframe-cadastro-filme.html"
+2. Abra o arquivo "wireframe-cadastro-filme.html" em algum navegador
 
 
 # Proposta:
